@@ -22,7 +22,7 @@ These accounts are hardcoded to be present in the list of accounts on the server
 > **Username:** test  
 > **Password:** pw
 
-> **Username:** test  
+> **Username:** test2  
 > **Password:** pw
 
 ## Functionality
